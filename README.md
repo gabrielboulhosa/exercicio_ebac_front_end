@@ -1,3 +1,3 @@
-# exercicio_ebac_html
+# exercicio_ebac_front_end
 
 olá mundo
